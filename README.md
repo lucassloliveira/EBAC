@@ -10,15 +10,14 @@ CSS
 JavaScript
 
 ▶️ Como usar
+
 Abra o arquivo index.html no navegador
 Insira seu peso e altura
 Veja o resultado do IMC
 
 📷 Preview
 
-<p align="center">
-  <img src="assets/preview.png" width="500">
-</p>
+![Preview](assets/preview.png)
 
 📄 Licença
 
