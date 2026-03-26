@@ -16,7 +16,9 @@ Veja o resultado do IMC
 
 📷 Preview
 
-![Preview do projeto](assets/preview.png)
+<p align="center">
+  <img src="assets/preview.png" width="500">
+</p>
 
 📄 Licença
 
